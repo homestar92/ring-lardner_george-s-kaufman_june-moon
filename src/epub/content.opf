@@ -54,12 +54,14 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Ring_Lardner</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n79023324</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">wfw</meta>
 		<dc:creator id="author-2">George S. Kaufman</dc:creator>
 		<meta property="file-as" refines="#author-2">Kaufman, George S.</meta>
 		<meta property="se:name.person.full-name" refines="#author-2">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/George_S._Kaufman</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n79063710</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author-2" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
