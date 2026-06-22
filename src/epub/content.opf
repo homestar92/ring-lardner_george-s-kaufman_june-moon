@@ -67,10 +67,9 @@
 		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n79063710</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">wfw</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">André Durenceau</dc:contributor>
+		<meta property="file-as" refines="#artist">Durenceau, André</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n98095443</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="producer-1">Jonathan Erdman</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Erdman, Jonathan</meta>
